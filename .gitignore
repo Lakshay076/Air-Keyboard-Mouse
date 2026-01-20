@@ -1,0 +1,7 @@
+data/ 
+*.pylance/ 
+*.pyi/ 
+__pycache__
+
+report/
+screenshots/
